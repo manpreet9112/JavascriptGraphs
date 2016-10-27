@@ -1,7 +1,8 @@
 # Interactive Graph
-I created  Interactive  graphs using javascript and Amchart library.
-Inetractive graphs shows data points at partcular point whenever user move mouse pointer.
-
+ Interactive  graphs using javascript Amchart library.
+Inetractive graphs shows data points at partcular point on a specific location. 
+Example. where you want to check the value, you have to just locate this poit with your cursor.  
+You can apply any mathamatics formula in this Graph. 
 Requirements:
 -----------------------------
      1) Download Amchart liberary http://www.amcharts.com/download/.
